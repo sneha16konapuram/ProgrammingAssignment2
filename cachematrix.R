@@ -1,6 +1,5 @@
 ## Functions that cache the inverse of a matrix
 ## Usage example:
-##
 ## > source('matrixinverse.R')
 ## > m <- makeMatrix(matrix(c(2, 0, 0, 2), c(2, 2)))
 ## > cachematrix(m)
